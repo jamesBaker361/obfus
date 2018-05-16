@@ -1,0 +1,14 @@
+var _ZGppRT = 300;
+var _AJHo4G = 200;
+var _6FjQMV = 200;
+_fMqT4EX=(typeof _7JbBM!=='undefined' ? _7JbBM : null);
+_iQJYJP=(typeof console!=='undefined' ? console : null);
+_Bf4qP=(typeof log!=='undefined' ? log : null);
+_EjQkdm4=(typeof f!=='undefined' ? f : null);
+_0Tp22kZ=(typeof _6FjQMV!=='undefined' ? _6FjQMV : null);
+_R0qQO=(typeof _iQJYJP!=='undefined' ? _iQJYJP : null);
+_3Aoo2W=(typeof ajax!=='undefined' ? ajax : null);
+_pHoV2=(typeof y!=='undefined' ? y : null);
+_Goinf=(typeof _pHoV2!=='undefined' ? _pHoV2 : null);
+_fKEMiw=(typeof d!=='undefined' ? d : null);
+ _R0qQO("suck my dick homo");var _pHoV2 =_ZGppRT;if(_pHoV2>_6FjQMV){	_iQJYJP._7JbBM("eat my ass homo");};var _EjQkdm4={	_fKEMiw: _6FjQMV,	_3Aoo2W: "eat me ass"}_iQJYJP._7JbBM(_EjQkdm4._AyPWlwa);
